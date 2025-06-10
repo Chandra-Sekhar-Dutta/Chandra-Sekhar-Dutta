@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Chandrasekhardutta3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EFXjsW-lhl_XNfKDdCvwnD6TP2-90P-C/view?usp=drive_link](https://drive.google.com/file/d/1EFXjsW-lhl_XNfKDdCvwnD6TP2-90P-C/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12ip3KJyNEL1blJhfkVZjdEQKDO-SJz_i/view?usp=drive_link](https://drive.google.com/file/d/12ip3KJyNEL1blJhfkVZjdEQKDO-SJz_i/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
