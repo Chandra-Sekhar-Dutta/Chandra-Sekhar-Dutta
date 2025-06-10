@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandra Sekhar Dutta</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
+<h3><a>https://portfolio-chandra-sekhar-duttas-projects.vercel.app/</a>Profile</h3>
+
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Problem Solving and Web Dev**
