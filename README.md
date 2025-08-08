@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chandra sekhar dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra sekhar dutta" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/chandra sekhar dutta](https://www.linkedin.com/in/chandra-sekhar-dutta-578595234)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra sekhar dutta" height="30" width="40" /></a>
 <a href="https://fb.com/chandra sekhar dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandra sekhar dutta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chandrasd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chandrasd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@chandrasekhardu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chandrasekhardu1" height="30" width="40" /></a>
